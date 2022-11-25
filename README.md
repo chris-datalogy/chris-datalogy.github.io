@@ -58,6 +58,6 @@ The 2.67 root mean squared error is better than the first model.
 * Use Minor League data to predict rookie season
 * Find a way to adjust for injured players season since model only uses players with a minmum of 200 at bats
 
-# Feel Free To Reach Out With Questions
+# Feel Free To Reach Out With Questions 
 
 
