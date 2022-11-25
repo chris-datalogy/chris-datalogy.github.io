@@ -2,7 +2,7 @@
 
 # Chris' Portfolios
 
-![](https://github.com/chris-datalogy/chris-datalogy.github.io/blob/main/baseball_stats.jpg)
+![](https://github.com/chris-datalogy/chris-datalogy.github.io/blob/main/baseball_stats.png)
 
 # Project Overview
 
