@@ -50,9 +50,10 @@ predicting better than a random guess.
 To imporve the prediction on the 2nd model, the algorithm is given the previous year's performance from a single player to predict the following year's performance. 
 The 2.67 root mean squared error is better than the first model.
 
-## Improvements to the model
+## Improvements To The Model
 * Use Minor League data to predict rookie season
 * Find a way to adjust for injured players season since model only uses players with a minmum of 200 at bats
 
-Feel Free To Reach Out With Questions
+## Feel Free To Reach Out With Questions
+
 
