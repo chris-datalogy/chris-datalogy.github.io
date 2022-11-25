@@ -2,7 +2,8 @@
 
 # Chris' Portfolios
 
-![](https://github.com/christian-dl/BaseballDataProjects/blob/main/images/baseball_stats.jpg)
+![](https://github.com/chris-datalogy/chris-datalogy.github.io/blob/main/images/baseball_stats.jpg)
+
 # Project Overview
 
 In this project, I predict future season (next year) Wins Above Replacement (WAR) for baseball players using Python code.  I'll first download baseball season data using pybaseball and clean the data.  I'll do feature selection using a sequential feature selector to identify the most promising predictors for machine learning.  I'll then train a ridge regression model to predict future season WAR.  Finally I'll measure error and improve the model.
